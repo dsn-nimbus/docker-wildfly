@@ -1,4 +1,4 @@
-FROM dsnnimbus/oracle-java
+FROM dsnnimbus/oracle-java:JDK1.8.0.60
 
 ENV WILDFLY_VERSION 8.2.1.Final
 ENV WILDFLY_SHA1 77161d682005f26acb9d2df5548c8623ba3a4905
